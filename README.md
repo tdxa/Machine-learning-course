@@ -11,5 +11,5 @@ Repository created for tasks from the Machine Learning course at university.
 | 🚢  [Logistic Regression: Titanic](https://github.com/tdxa/Machine-learning-course/blob/main/LogisticRegression-Titanic.ipynb)| ✔ |
 | 💰  [Logistic Regression: Census Income](https://github.com/tdxa/Machine-learning-course/blob/main/LogisticRegression-census-income.ipynb)| ✔ |
 | 💰  [Keras: Census Income](https://github.com/tdxa/Machine-learning-course/blob/main/Census_keras.ipynb)| ✔ |
-| 👗  [CNN: Fashion MNIST]()| ⏳ |
-| 🧠  [K-means]()|  |
+| 👗  [CNN: Fashion MNIST](https://github.com/tdxa/Machine-learning-course/blob/main/CNN_Fasion_MNIST.ipynb)| ✔ |
+| 🧠  [K-means]()| ⏳ |
