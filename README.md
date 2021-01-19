@@ -12,5 +12,5 @@ Repository created for tasks from the Machine Learning course at university.
 | 💰  [Logistic Regression: Census Income](https://github.com/tdxa/Machine-learning-course/blob/main/LogisticRegression-census-income.ipynb)| ✔ |
 | 💰  [Keras: Census Income](https://github.com/tdxa/Machine-learning-course/blob/main/Census_keras.ipynb)| ✔ |
 | 👗  [CNN: Fashion MNIST](https://github.com/tdxa/Machine-learning-course/blob/main/CNN_Fasion_MNIST.ipynb)| ✔ |
-| 🧠  [K-means](https://github.com/tdxa/Machine-learning-course/blob/main/K_means.ipynb)| ⏳ |
+| 🧠  [K-means](https://github.com/tdxa/Machine-learning-course/blob/main/K_means.ipynb)| ✔ |
 | 🖼  [Transfer Learning](https://github.com/tdxa/Machine-learning-course/blob/main/Xception.ipynb)| ⏳ |
