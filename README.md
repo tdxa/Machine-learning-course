@@ -1,6 +1,6 @@
 # Machine-learning-course
 
-Repository created for tasks from the Machine Learning course at university. 
+Repository created for tasks from the Machine Learning course at university.  The tasks were prepared by [Przemysław Sekuła](https://github.com/PrzemekSekula/DeepLearningClasses1). 
 
 ## Table of tasks
 
@@ -13,4 +13,8 @@ Repository created for tasks from the Machine Learning course at university.
 | 💰  [Keras: Census Income](https://github.com/tdxa/Machine-learning-course/blob/main/Census_keras.ipynb)| ✔ |
 | 👗  [CNN: Fashion MNIST](https://github.com/tdxa/Machine-learning-course/blob/main/CNN_Fasion_MNIST.ipynb)| ✔ |
 | 🧠  [K-means](https://github.com/tdxa/Machine-learning-course/blob/main/K_means.ipynb)| ✔ |
-| 🖼  [Transfer Learning](https://github.com/tdxa/Machine-learning-course/blob/main/Xception.ipynb)| ⏳ |
+| 🖼  [Transfer Learning](https://github.com/tdxa/Machine-learning-course/blob/main/Xception.ipynb)| ✔ |
+
+
+
+I have created my own [data set](https://github.com/tdxa/Machine-learning-course/tree/main/Twin-Peaks-dataset) for the Transfer Learning task.
